@@ -116,21 +116,7 @@ Let's turn your ideas into reality!
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MelvinAguilar&theme=radical&hide_border=true" alt="MelvinAguilar" width="390"/>
-</p>
-</details>
 
-<details>
-<summary><b>🏆 Github Trophies</b></summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MelvinAguilar&theme=discord" alt="MelvinAguilar" />
-</p>
-</details>
 
 
 
