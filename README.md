@@ -17,15 +17,11 @@
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)!.
 
 - 📫 How to reach me: **abdoelaraby447@gmail.com**
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
-
-- 🌎 Fluent in **Español** 📖, and polishing up my **English** skills every day 🌟
 
 
 <br>
@@ -60,13 +56,11 @@ Let's turn your ideas into reality!
 
 <div align = "center">
     
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/melvinaguilar)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdoelaraby447@gmail.com)](mailto:abdoelaraby447@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)](https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/](https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/))](https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/)
 <br>
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)
+
 
   
 </div>
