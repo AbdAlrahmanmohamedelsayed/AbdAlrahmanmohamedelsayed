@@ -45,9 +45,7 @@
 
 <h2 align="center">📫 Connect with me</h2>
 
-<p align="center">
-Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
-</p>
+
 
 <p align="center">
 Let's turn your ideas into reality!
