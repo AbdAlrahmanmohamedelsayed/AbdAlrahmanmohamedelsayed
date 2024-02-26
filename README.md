@@ -70,8 +70,8 @@ Let's turn your ideas into reality!
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/abdelrahman/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/abdelrahman/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
@@ -88,6 +88,7 @@ Let's turn your ideas into reality!
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
 
@@ -105,7 +106,7 @@ Let's turn your ideas into reality!
 
 <br>
 
-![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+
 </details>
 
 </div>
