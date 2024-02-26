@@ -70,8 +70,8 @@ Let's turn your ideas into reality!
 
 <div align = "center">
 
-![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahmanmohamedelsayed&show_icons=true&locale=en&layout=compact)
-![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanmohamedelsayed&)
+![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahmanmohamedelsayed&show_icons=true&locale=en&layout=compact-dark-mode-only)
+![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanmohamedelsayed&-dark-mode-only)
 
 
 </div>
