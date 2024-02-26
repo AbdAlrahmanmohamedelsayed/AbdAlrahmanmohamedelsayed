@@ -70,8 +70,8 @@ Let's turn your ideas into reality!
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
