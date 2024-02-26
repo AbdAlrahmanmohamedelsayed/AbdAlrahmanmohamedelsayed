@@ -70,8 +70,9 @@ Let's turn your ideas into reality!
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/AbdAlrahmanmohamedelsayed/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahmanmohamedelsayed&show_icons=true&locale=en&layout=compact)
+![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanmohamedelsayed&)
+
 
 </div>
 <br>
