@@ -3,9 +3,7 @@
 ![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
 
 
-<p align="center">
-👋 Hey there! I'm a software engineering student with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.
-</p>
+
 
 ##
 
@@ -14,7 +12,6 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
 
