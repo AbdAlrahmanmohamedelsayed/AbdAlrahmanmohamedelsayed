@@ -1,129 +1,84 @@
-<!-- Banner 20232A -->
-
-![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
-
-
-
-
-##
+<!-- Banner -->
+![Banner-light-mode](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
 
 <br>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-- 🔭 I’m currently studying on **becoming a Flutter developer**.
+<!-- Illustration -->
+<img align="right" alt="Flutter Dev" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
+# 👋 Hello, I'm Abdelrahman Mohamed Elsayed
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)!.
+**👨‍💻 Flutter Developer | 💙 Dart Enthusiast | 📱 Passionate about clean, modern mobile apps**
 
-- 📫 How to reach me: **abdoelaraby447@gmail.com**
+![Profile views](https://komarev.com/ghpvc/?username=AbdAlrahmanmohamedelsayed&style=flat-square&color=blue)
 
+---
 
+## 👨‍💻 About Me
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br>
-<br>
+- 🌱 Currently learning and building real-world projects with Flutter
+- 💼 Aiming to become a professional Flutter Developer
+- 📱 I create complete mobile applications with clean UI using Flutter & Dart
+- 🛠️ Passionate about clean code, BLoC, and scalable architectures
+- 📫 Reach me at: **abdoelaraby447@gmail.com**
 
-## 🏆 Goals:
+---
 
+## 💻 Tech Stack
 
-## 🚀 Future Endeavors:
+### 🌐 Languages & Frameworks:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🛠 Tools I Use:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-## 📈 Achievements
+## 📱 Flutter Projects
 
+- 🧠 **Smart Pill Dispenser App** – IoT-based app for elderly medication management
+- 📰 **News App** – Fetches news from an API with a clean UI
+- 🛒 **E-commerce App** – Fully functional online shopping app with Firebase Authentication
 
+> Want a live preview? Just ask!
 
+---
 
-#
+## 📈 GitHub Stats
 
-<br>
+<div align="center">
 
-<h2 align="center">📫 Connect with me</h2>
-
-
-
-<p align="center">
-Let's turn your ideas into reality!
-</p>
-<br />
-
-<div align = "center">
-    
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdoelaraby447@gmail.com)](mailto:abdoelaraby447@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)](https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)&nbsp;
-[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/](https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/))](https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/)
-<br>
-
-
-  
-</div>
-
-<br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs?username=abdalrahmanmohamedelsayed&show_icons=true&locale=en&layout=compact)
-![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=abdalrahmanmohamedelsayed&)
-
-
-</div>
-<br>
-
-
-
-<div align = "center">
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-
-
-</details>
-
-
-
-
-<details open>
-<summary><b>💻 Software and Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-
-<br>
-
-
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdAlrahmanmohamedelsayed&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdAlrahmanmohamedelsayed&theme=dark)
 
 </div>
 
+---
 
-<br>
+## 🧭 My Upcoming Goals
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+- ✅ Finish real-world projects using Clean Architecture
+- 📦 Master state management (BLoC, Riverpod)
+- 📲 Publish my first app on Google Play
+- 🚀 Contribute to open source or join hackathons
 
+---
 
+## 🤝 Connect with Me
 
-
-
-
-
+<div align="center">
   
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+[![Gmail](https://img.shields.io/badge/Gmail-abdoelaraby447@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abdoelaraby447@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-rahman-mohamed-elsayed-b61447241/)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/AbdAlrahmanmohamedelsayed)
+
+</div>
+
+---
+
+<h6 align="center">⭐ If you like my work, feel free to star a repo!</h6>
